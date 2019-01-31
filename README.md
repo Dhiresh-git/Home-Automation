@@ -10,6 +10,7 @@ Step 6: You've to change your AuthToken, Network name & password.
 Step 7: Compile it.
 Step 8: Install Blynk app in your smart phone & configure it.
 Step 9: Link your Blynk app with IFTTT(It will allow you to controll via voice Commands.) 
+Step 10: Open Google assistance App and login with google account in which you have stored the commands and start using you IOT devices.
 
 
 
